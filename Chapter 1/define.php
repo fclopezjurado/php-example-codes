@@ -39,10 +39,3 @@ define(MOLE, 'hill');*/
 /*namespace Bar;
 echo \Foo\AVOCADO;
 echo \Foo\MOLE;*/
-
-/**
- * It's possible definition of a constant out of a namespace and a class and we use "constant"
- * function to print constant value.
- */
-const MY_CONSTANT = 'test';
-var_dump(constant('MY_CONSTANT'));
