@@ -6,6 +6,8 @@
  * Date: 8/11/18
  * Time: 16:50
  *
+ * int mb_strripos ( string $haystack , string $needle [, int $offset = 0 [, string $encoding = mb_internal_encoding() ]] )
+ *
  * Finds position of last occurrence of a string within another, case insensitive.
  * http://php.net/manual/en/function.mb-strripos.php
  * mb_strripos() performs multi-byte safe strripos() operation based on number of characters. needle position is

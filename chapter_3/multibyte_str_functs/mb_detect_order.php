@@ -6,6 +6,8 @@
  * Date: 8/11/18
  * Time: 16:40
  *
+ * string mb_detect_encoding ( string $str [, mixed $encoding_list = mb_detect_order() [, bool $strict = FALSE ]] )
+ *
  * Set/Get character encoding detection order.
  * http://php.net/manual/en/function.mb-detect-order.php
  * Sets the automatic character encoding detection order to encoding_list.

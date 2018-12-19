@@ -6,6 +6,8 @@
  * Date: 8/11/18
  * Time: 16:30
  *
+ * string strstr ( string $haystack , mixed $needle [, bool $before_needle = FALSE ] )
+ *
  * Find the first occurrence of a string.
  * http://php.net/manual/en/function.strstr.php
  * Returns part of haystack string starting from and including the first occurrence of needle to the end of haystack.

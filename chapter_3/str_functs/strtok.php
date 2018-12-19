@@ -6,6 +6,8 @@
  * Date: 8/11/18
  * Time: 16:30
  *
+ * string strtok ( string $str , string $token )
+ *
  * Tokenize string.
  * http://php.net/manual/en/function.strtok.php
  * Splits a string (str) into smaller strings (tokens), with each token being delimited by any character from token.

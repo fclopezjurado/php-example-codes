@@ -6,6 +6,8 @@
  * Date: 8/11/18
  * Time: 16:27
  *
+ * int strnatcasecmp ( string $str1 , string $str2 )
+ *
  * Case insensitive string comparisons using a "natural order" algorithm.
  * http://php.net/manual/en/function.strnatcasecmp.php
  * This function implements a comparison algorithm that orders alphanumeric strings in the way a human being would. The

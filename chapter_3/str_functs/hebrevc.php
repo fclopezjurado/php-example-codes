@@ -6,6 +6,8 @@
  * Date: 8/11/18
  * Time: 16:17
  *
+ * string hebrevc ( string $hebrew_text [, int $max_chars_per_line = 0 ] )
+ *
  * Convert logical Hebrew text to visual text with newline conversion. This function is similar to hebrev() with the
  * difference that it converts newlines (\n) to "<br>\n". The function tries to avoid breaking words.
  * http://php.net/manual/en/function.hebrevc.php

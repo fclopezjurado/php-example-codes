@@ -6,6 +6,8 @@
  * Date: 8/11/18
  * Time: 16:15
  *
+ * int crc32 ( string $str )
+ *
  * Generates the cyclic redundancy checksum polynomial of 32-bit lengths of the str. This is usually used to validate
  * the integrity of data being transmitted.
  * http://php.net/manual/en/function.crc32.php

@@ -6,6 +6,8 @@
  * Date: 8/11/18
  * Time: 16:48
  *
+ * mixed mb_regex_encoding ([ string $encoding = mb_regex_encoding() ] )
+ *
  * Set/Get character encoding for multi byte regex.
  * http://php.net/manual/en/function.mb-regex-encoding.php
  * @param string $encoding the encoding parameter is the character encoding. If it is omitted, the internal character

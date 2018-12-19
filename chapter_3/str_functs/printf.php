@@ -6,6 +6,8 @@
  * Date: 8/11/18
  * Time: 16:22
  *
+ * int printf ( string $format [, mixed $args [, mixed $... ]] )
+ *
  * Output a formatted string.
  * http://php.net/manual/en/function.printf.php
  * @param string $format see formats for sprintf() in notes for a description of format.

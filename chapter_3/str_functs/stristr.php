@@ -6,6 +6,8 @@
  * Date: 8/11/18
  * Time: 16:27
  *
+ * string stristr ( string $haystack , mixed $needle [, bool $before_needle = FALSE ] )
+ *
  * Case-insensitive strstr().
  * http://php.net/manual/en/function.stristr.php
  * Find the first occurrence of a string.

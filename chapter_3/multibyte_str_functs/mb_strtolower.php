@@ -6,6 +6,8 @@
  * Date: 8/11/18
  * Time: 16:51
  *
+ * string mb_strtolower ( string $str [, string $encoding = mb_internal_encoding() ] )
+ *
  * Make a string lowercase.
  * http://php.net/manual/en/function.mb-strtolower.php
  * @param string $str the string being lowercased.

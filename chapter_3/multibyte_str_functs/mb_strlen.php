@@ -6,6 +6,8 @@
  * Date: 8/11/18
  * Time: 16:50
  *
+ * int mb_strlen ( string $str [, string $encoding = mb_internal_encoding() ] )
+ *
  * Get string length.
  * http://php.net/manual/en/function.mb-strlen.php
  * @param string $str the string being checked for length.

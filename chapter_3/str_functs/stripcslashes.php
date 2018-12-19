@@ -6,6 +6,8 @@
  * Date: 8/11/18
  * Time: 16:26
  *
+ * string stripcslashes ( string $str )
+ *
  * Un-quote string quoted with addcslashes().
  * http://php.net/manual/en/function.stripcslashes.php
  * Returns a string with backslashes stripped off. Recognizes C-like \n, \r ..., octal and hexadecimal representation.

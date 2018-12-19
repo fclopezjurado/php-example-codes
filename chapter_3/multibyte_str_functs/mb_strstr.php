@@ -6,6 +6,9 @@
  * Date: 8/11/18
  * Time: 16:51
  *
+ * string mb_strstr ( string $haystack , string $needle [, bool $before_needle = FALSE
+ * [, string $encoding = mb_internal_encoding() ]] )
+ *
  * Finds the first occurrence of needle in haystack and returns the portion of haystack. If needle is not found, it
  * returns FALSE.
  * http://php.net/manual/en/function.mb-strstr.php

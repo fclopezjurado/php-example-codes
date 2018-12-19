@@ -6,6 +6,8 @@
  * Date: 8/11/18
  * Time: 16:19
  *
+ * string lcfirst ( string $str )
+ *
  * Make a string's first character lowercase.
  * http://php.net/manual/en/function.lcfirst.php
  * Note that 'alphabetic' is determined by the current locale. For instance, in the default "C" locale characters such

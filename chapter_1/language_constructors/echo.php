@@ -6,6 +6,8 @@
  * Date: 12/09/18
  * Time: 17:53
  *
+ * void echo ( string $arg1 [, string $... ] )
+ *
  * http://php.net/manual/en/function.echo.php
  * Language constructor (brackets to pass parameters are not necessary if parameter is only one).
  */

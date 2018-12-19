@@ -6,6 +6,8 @@
  * Date: 8/11/18
  * Time: 16:40
  *
+ * string mb_decode_mimeheader ( string $str )
+ *
  * Decode string in MIME header field.
  * http://php.net/manual/en/function.mb-decode-mimeheader.php
  * Decodes encoded-word string str in MIME header.

@@ -6,6 +6,8 @@
  * Date: 8/11/18
  * Time: 16:32
  *
+ * string vsprintf ( string $format , array $args )
+ *
  * Return a formatted string.
  * http://php.net/manual/en/function.vsprintf.php
  * Operates as sprintf() but accepts an array of arguments, rather than a variable number of arguments.

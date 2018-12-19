@@ -6,6 +6,9 @@
  * Date: 8/11/18
  * Time: 16:41
  *
+ * string mb_encode_numericentity ( string $str , array $convmap [, string $encoding = mb_internal_encoding()
+ * [, bool $is_hex = FALSE ]] )
+ *
  * Encode character to HTML numeric string reference.
  * http://php.net/manual/en/function.mb-encode-numericentity.php
  * Converts specified character codes in string str from character code to HTML numeric character reference.

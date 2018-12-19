@@ -6,6 +6,8 @@
  * Date: 8/11/18
  * Time: 16:48
  *
+ * string mb_regex_set_options ([ string $options = mb_regex_set_options() ] )
+ *
  * Set/Get the default options for mbregex functions.
  * http://php.net/manual/en/function.mb-regex-set-options.php
  * @param string $options the options to set. This is a string where each character is an option. To set a mode, the

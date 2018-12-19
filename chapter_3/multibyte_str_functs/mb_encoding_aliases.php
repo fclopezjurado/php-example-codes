@@ -6,6 +6,8 @@
  * Date: 8/11/18
  * Time: 16:41
  *
+ * array mb_encoding_aliases ( string $encoding )
+ *
  * Get aliases of a known encoding type.
  * http://php.net/manual/en/function.mb-encoding-aliases.php
  * Returns an array of aliases for a known encoding type.

@@ -6,6 +6,8 @@
  * Date: 8/11/18
  * Time: 16:39
  *
+ * string mb_convert_kana ( string $str [, string $option = "KV" [, string $encoding = mb_internal_encoding() ]] )
+ *
  * Convert "kana" one from another ("zen-kaku", "han-kaku" and more).
  * http://php.net/manual/en/function.mb-convert-kana.php
  * Performs a "han-kaku" - "zen-kaku" conversion for string str. This function is only useful for Japanese.

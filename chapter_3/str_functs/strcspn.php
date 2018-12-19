@@ -6,6 +6,8 @@
  * Date: 8/11/18
  * Time: 16:26
  *
+ * int strcspn ( string $subject , string $mask [, int $start [, int $length ]] )
+ *
  * Find length of initial segment not matching mask.
  * http://php.net/manual/en/function.strcspn.php
  * Returns the length of the initial segment of subject which does not contain any of the characters in mask.

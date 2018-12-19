@@ -6,6 +6,8 @@
  * Date: 8/11/18
  * Time: 16:32
  *
+ * int vprintf ( string $format , array $args )
+ *
  * Output a formatted string.
  * http://php.net/manual/en/function.vprintf.php
  * Display array values as a formatted string according to format (which is described in the documentation for

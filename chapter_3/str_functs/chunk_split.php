@@ -5,6 +5,9 @@
  * User: fljurado
  * Date: 8/11/18
  * Time: 16:12
+ *
+ * string chunk_split ( string $body [, int $chunklen = 76 [, string $end = "\r\n" ]] )
+ *
  * Can be used to split a string into smaller chunks.
  * http://php.net/manual/en/function.chunk-split.php
  * @param string body string to be chunked.

@@ -6,6 +6,9 @@
  * Date: 8/11/18
  * Time: 16:19
  *
+ * int levenshtein ( string $str1 , string $str2 )
+ * int levenshtein ( string $str1 , string $str2 , int $cost_ins , int $cost_rep , int $cost_del )
+ *
  * Calculate Levenshtein distance between two strings.
  * http://php.net/manual/en/function.levenshtein.php
  * The Levenshtein distance is defined as the minimal number of characters you have to replace, insert or delete to

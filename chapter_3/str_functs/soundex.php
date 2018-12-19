@@ -6,6 +6,8 @@
  * Date: 8/11/18
  * Time: 16:23
  *
+ * string soundex ( string $str )
+ *
  * Calculate the soundex key of a string.
  * Soundex keys have the property that words pronounced similarly produce the same soundex key, and can thus be used
  * to simplify searches in databases where you know the pronunciation but not the spelling. This soundex function

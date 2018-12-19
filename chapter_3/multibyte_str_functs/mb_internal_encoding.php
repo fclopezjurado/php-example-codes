@@ -6,6 +6,8 @@
  * Date: 8/11/18
  * Time: 16:46
  *
+ * mixed mb_internal_encoding ([ string $encoding = mb_internal_encoding() ] )
+ *
  * Set/Get internal character encoding.
  * http://php.net/manual/en/function.mb-internal-encoding.php
  * @param string $encoding is the character encoding name used for the HTTP input character encoding conversion,

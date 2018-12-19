@@ -6,6 +6,8 @@
  * Date: 8/11/18
  * Time: 16:21
  *
+ * string nl2br ( string $string [, bool $is_xhtml = TRUE ] )
+ *
  * Inserts HTML line breaks before all newlines in a string. Returns string with <br /> or <br> inserted before all
  * newlines (\r\n, \n\r, \n and \r).
  * http://php.net/manual/en/function.nl2br.php

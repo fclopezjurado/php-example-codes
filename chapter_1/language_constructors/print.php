@@ -6,6 +6,7 @@
  * Date: 13/09/18
  * Time: 16:13
  *
+ * int print ( string $arg )
  * PRINT. http://be2.php.net/manual/en/function.print.php
  * Language constructor.
  */

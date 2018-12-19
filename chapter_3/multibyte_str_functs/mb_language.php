@@ -6,6 +6,8 @@
  * Date: 8/11/18
  * Time: 16:47
  *
+ * mixed mb_language ([ string $language = mb_language() ] )
+ *
  * Set/Get current language.
  * http://php.net/manual/en/function.mb-language.php
  * @param string $language used for encoding e-mail messages. Valid languages are "Japanese", "ja","English","en" and

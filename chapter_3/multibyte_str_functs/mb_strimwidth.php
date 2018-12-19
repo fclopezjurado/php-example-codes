@@ -6,6 +6,9 @@
  * Date: 8/11/18
  * Time: 16:50
  *
+ * string mb_strimwidth ( string $str , int $start , int $width [, string $trimmarker = ""
+ * [, string $encoding = mb_internal_encoding() ]] )
+ *
  * Get truncated string with specified width.
  * http://php.net/manual/en/function.mb-strimwidth.php
  * @param string $str the string being decoded.

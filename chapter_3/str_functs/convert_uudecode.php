@@ -6,6 +6,8 @@
  * Date: 8/11/18
  * Time: 16:13
  *
+ * string convert_uudecode ( string $data )
+ *
  * Decode a uuencoded string. Neither accepts the begin nor the end line, which are part of uuencoded files.
  * http://php.net/manual/en/function.convert-uudecode.php
  * @param string $data the uuencoded data.

@@ -6,6 +6,8 @@
  * Date: 8/11/18
  * Time: 16:32
  *
+ * string ucwords ( string $str [, string $delimiters = " \t\r\n\f\v" ] )
+ *
  * Uppercase the first character of each word in a string.
  * http://php.net/manual/en/function.ucwords.php
  * The definition of a word is any string of characters that is immediately after any character listed in the

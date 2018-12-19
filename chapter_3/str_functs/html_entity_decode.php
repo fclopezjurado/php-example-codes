@@ -6,6 +6,9 @@
  * Date: 8/11/18
  * Time: 16:17
  *
+ * string html_entity_decode ( string $string [, int $flags = ENT_COMPAT | ENT_HTML401
+ * [, string $encoding = ini_get("default_charset") ]] )
+ *
  * Convert HTML entities to their corresponding characters. Decodes all the entities (including all numeric entities)
  * that a) are necessarily valid for the chosen document type and b) whose character or characters are in the coded
  * character set associated with the chosen encoding and are permitted in the chosen document type. All other entities

@@ -6,6 +6,8 @@
  * Date: 8/11/18
  * Time: 16:49
  *
+ * array mb_split ( string $pattern , string $string [, int $limit = -1 ] )
+ *
  * Split multi byte string using regular expression.
  * http://php.net/manual/en/function.mb-split.php
  * Split a multi byte string using regular expression pattern and returns the result as an array.

@@ -6,6 +6,8 @@
  * Date: 8/11/18
  * Time: 16:30
  *
+ * int strspn ( string $subject , string $mask [, int $start [, int $length ]] )
+ *
  * Finds the length of the initial segment of a string consisting entirely of characters contained within a given mask.
  * http://php.net/manual/en/function.strspn.php
  * If start and length are omitted, then all of subject will be examined. If they are included, then the effect will

@@ -6,6 +6,8 @@
  * Date: 8/11/18
  * Time: 16:20
  *
+ * string md5 ( string $str [, bool $raw_output = FALSE ] )
+ *
  * Calculate the md5 hash of a string.
  * http://php.net/manual/en/function.md5.php
  * @param string $str the string.

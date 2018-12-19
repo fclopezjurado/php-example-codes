@@ -6,6 +6,8 @@
  * Date: 8/11/18
  * Time: 16:29
  *
+ * int strrpos ( string $haystack , mixed $needle [, int $offset = 0 ] )
+ *
  * Find the position of the last occurrence of a substring in a string.
  * http://php.net/manual/en/function.strrpos.php
  * Find the numeric position of the last occurrence of needle in the haystack string.

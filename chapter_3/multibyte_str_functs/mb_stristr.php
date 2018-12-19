@@ -6,6 +6,9 @@
  * Date: 8/11/18
  * Time: 16:50
  *
+ * string mb_stristr ( string $haystack , string $needle [, bool $before_needle = FALSE
+ * [, string $encoding = mb_internal_encoding() ]] )
+ *
  * Finds first occurrence of a string within another, case insensitive.
  * http://php.net/manual/en/function.mb-stristr.php
  * mb_stristr() finds the first occurrence of needle in haystack and returns the portion of haystack. Unlike

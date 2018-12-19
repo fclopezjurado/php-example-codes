@@ -6,6 +6,8 @@
  * Date: 8/11/18
  * Time: 16:47
  *
+ * string mb_output_handler ( string $contents , int $status )
+ *
  * Callback function converts character encoding in output buffer.
  * http://php.net/manual/en/function.mb-output-handler.php
  * mb_output_handler() is ob_start() callback function. mb_output_handler() converts characters in the output buffer

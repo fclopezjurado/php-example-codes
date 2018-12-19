@@ -6,6 +6,8 @@
  * Date: 8/11/18
  * Time: 16:46
  *
+ * int mb_eregi ( string $pattern , string $string [, array &$regs ] )
+ *
  * Executes the case insensitive regular expression match with multi byte support.
  * http://php.net/manual/en/function.mb-eregi.php
  * @param string $pattern the search pattern.

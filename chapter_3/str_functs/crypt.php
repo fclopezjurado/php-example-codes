@@ -6,6 +6,8 @@
  * Date: 8/11/18
  * Time: 16:16
  *
+ * string crypt ( string $str [, string $salt ] )
+ *
  * One-way string hashing.
  * http://php.net/manual/en/function.crypt.php
  * crypt() will return a hashed string using the standard Unix DES-based algorithm or alternative algorithms that may

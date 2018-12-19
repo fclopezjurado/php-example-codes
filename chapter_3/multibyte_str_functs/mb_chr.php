@@ -6,6 +6,8 @@
  * Date: 8/11/18
  * Time: 16:38
  *
+ * string mb_chr ( int $cp [, string $encoding ] )
+ *
  * Get a specific character.
  * http://php.net/manual/en/function.mb-chr.php
  * @param int $cp

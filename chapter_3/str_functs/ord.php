@@ -6,6 +6,8 @@
  * Date: 8/11/18
  * Time: 16:21
  *
+ * int ord ( string $string )
+ *
  * Convert the first byte of a string to a value between 0 and 255.
  * Interprets the binary value of the first byte of string as an unsigned integer between 0 and 255.
  * If the string is in a single-byte encoding, such as ASCII, ISO-8859, or Windows 1252, this is equivalent to

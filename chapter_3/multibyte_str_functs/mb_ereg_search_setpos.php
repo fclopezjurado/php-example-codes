@@ -6,6 +6,8 @@
  * Date: 8/11/18
  * Time: 16:43
  *
+ * bool mb_ereg_search_setpos ( int $position )
+ *
  * Set start point of next regular expression match.
  * http://php.net/manual/en/function.mb-ereg-search-setpos.php
  * @param int $position the position to set. If it is negative, it counts from the end of the string.

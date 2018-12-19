@@ -6,6 +6,8 @@
  * Date: 8/11/18
  * Time: 16:44
  *
+ * int mb_ereg ( string $pattern , string $string [, array &$regs ] )
+ *
  * Regular expression match with multibyte support.
  * http://php.net/manual/en/function.mb-ereg.php
  * Executes the regular expression match with multi byte support.

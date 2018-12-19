@@ -6,6 +6,8 @@
  * Date: 8/11/18
  * Time: 16:51
  *
+ * string mb_strtoupper ( string $str [, string $encoding = mb_internal_encoding() ] )
+ *
  * Make a string uppercase.
  * http://php.net/manual/en/function.mb-strtoupper.php
  * @param string $str the string being uppercased.

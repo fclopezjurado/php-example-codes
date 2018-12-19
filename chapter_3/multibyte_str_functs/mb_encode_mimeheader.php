@@ -6,6 +6,8 @@
  * Date: 8/11/18
  * Time: 16:40
  *
+ * string mb_encode_mimeheader ( string $str [, string $charset = determined by mb_language() [, string $transfer_encoding = "B" [, string $linefeed = "\r\n" [, int $indent = 0 ]]]] )
+ *
  * Encode string for MIME header.
  * http://php.net/manual/en/function.mb-encode-mimeheader.php
  * Encodes a given string str by the MIME header encoding scheme.

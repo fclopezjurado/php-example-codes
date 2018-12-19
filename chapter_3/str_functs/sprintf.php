@@ -6,6 +6,8 @@
  * Date: 8/11/18
  * Time: 16:23
  *
+ * string sprintf ( string $format [, mixed $... ] )
+ *
  * Returns a string produced according to the formatting string format.
  * http://php.net/manual/en/function.sprintf.php
  * @param string $format see documentation in notes to study different string formats for this function.

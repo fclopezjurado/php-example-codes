@@ -6,6 +6,8 @@
  * Date: 8/11/18
  * Time: 16:46
  *
+ * mixed mb_http_output ([ string $encoding = mb_http_output() ] )
+ *
  * Set/Get HTTP output character encoding.
  * http://php.net/manual/en/function.mb-http-output.php
  * Set/Get the HTTP output character encoding. Output after this function is called will be converted from the set

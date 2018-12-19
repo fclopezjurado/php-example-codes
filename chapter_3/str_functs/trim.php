@@ -6,6 +6,8 @@
  * Date: 8/11/18
  * Time: 16:32
  *
+ * string trim ( string $str [, string $character_mask = " \t\n\r\0\x0B" ] )
+ *
  * Strip whitespace (or other characters) from the beginning and end of a string.
  * http://php.net/manual/en/function.trim.php
  * This function returns a string with whitespace stripped from the beginning and end of str. Without the second

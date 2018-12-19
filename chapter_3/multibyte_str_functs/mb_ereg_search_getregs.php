@@ -6,6 +6,8 @@
  * Date: 8/11/18
  * Time: 16:42
  *
+ * array mb_ereg_search_getregs ( void )
+ *
  * Retrieve the result from the last multi byte regular expression match.
  * http://php.net/manual/en/function.mb-ereg-search-getregs.php
  * @return array|bool including the sub-string of matched part by last mb_ereg_search(), mb_ereg_search_pos(),

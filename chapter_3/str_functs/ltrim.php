@@ -6,6 +6,8 @@
  * Date: 8/11/18
  * Time: 16:19
  *
+ * string ltrim ( string $str [, string $character_mask ] )
+ *
  * Strip whitespace (or other characters) from the beginning of a string.
  * http://php.net/manual/en/function.ltrim.php
  * @param string $str the input string.

@@ -6,6 +6,8 @@
  * Date: 8/11/18
  * Time: 16:49
  *
+ * string mb_strcut ( string $str , int $start [, int $length = NULL [, string $encoding = mb_internal_encoding() ]] )
+ *
  * Get part of string.
  * http://php.net/manual/en/function.mb-strcut.php
  * mb_strcut() extracts a substring from a string similarly to mb_substr(), but operates on bytes instead of

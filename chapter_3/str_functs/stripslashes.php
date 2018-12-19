@@ -6,6 +6,8 @@
  * Date: 8/11/18
  * Time: 16:26
  *
+ * string stripslashes ( string $str )
+ *
  * Un-quotes a quoted string.
  * http://php.net/manual/en/function.stripslashes.php
  * An example use of "stripslashes()" is when the PHP directive magic_quotes_gpc is on (it was on by default before

@@ -6,6 +6,8 @@
  * Date: 8/11/18
  * Time: 16:38
  *
+ * bool mb_check_encoding ([ string $var = NULL [, string $encoding = mb_internal_encoding() ]] )
+ *
  * Check if the string is valid for the specified encoding.
  * http://php.net/manual/en/function.mb-check-encoding.php
  * http://micmap.org/php-by-example/es/function/mb_check_encoding

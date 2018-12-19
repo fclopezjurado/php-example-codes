@@ -6,6 +6,8 @@
  * Date: 8/11/18
  * Time: 16:46
  *
+ * mixed mb_http_input ([ string $type = "" ] )
+ *
  * Detect HTTP input character encoding.
  * http://php.net/manual/en/function.mb-http-input.php
  * @param string $type input string specifies the input type. "G" for GET, "P" for POST, "C" for COOKIE,

@@ -6,6 +6,8 @@
  * Date: 8/11/18
  * Time: 16:29
  *
+ * int strpos ( string $haystack , mixed $needle [, int $offset = 0 ] )
+ *
  * Find the position of the first occurrence of a substring in a string.
  * http://php.net/manual/en/function.strpos.php
  * @param string $haystack the string to search in.

@@ -6,6 +6,8 @@
  * Date: 8/11/18
  * Time: 16:25
  *
+ * mixed str_word_count ( string $string [, int $format = 0 [, string $charlist ]] )
+ *
  * Return information about words used in a string.
  * http://php.net/manual/en/function.str-word-count.php
  * Counts the number of words inside string. If the optional format is not specified, then the return value will be an

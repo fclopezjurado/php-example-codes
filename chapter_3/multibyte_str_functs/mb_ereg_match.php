@@ -6,6 +6,8 @@
  * Date: 8/11/18
  * Time: 16:41
  *
+ * bool mb_ereg_match ( string $pattern , string $string [, string $option = "msr" ] )
+ *
  * Regular expression match for multi byte string.
  * http://php.net/manual/en/function.mb-ereg-match.php
  * @param string $pattern the regular expression pattern.

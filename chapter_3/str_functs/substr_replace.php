@@ -6,6 +6,8 @@
  * Date: 8/11/18
  * Time: 16:31
  *
+ * mixed substr_replace ( mixed $string , mixed $replacement , mixed $start [, mixed $length ] )
+ *
  * Replace text within a portion of a string.
  * http://php.net/manual/en/function.substr-replace.php
  * Replaces a copy of string delimited by the start and (optionally) length parameters with the string given in
