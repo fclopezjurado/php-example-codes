@@ -6,6 +6,9 @@
  * Date: 8/11/18
  * Time: 16:31
  *
+ * string strtr ( string $str , string $from , string $to )
+ * string strtr ( string $str , array $replace_pairs )
+ *
  * Translate characters or replace substrings.
  * http://php.net/manual/en/function.strtr.php
  * If given three arguments, this function returns a copy of str where all occurrences of each (single-byte) character

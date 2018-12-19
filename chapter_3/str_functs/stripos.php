@@ -6,6 +6,8 @@
  * Date: 8/11/18
  * Time: 16:26
  *
+ * int stripos ( string $haystack , mixed $needle [, int $offset = 0 ] )
+ *
  * Find the position of the first occurrence of a case-insensitive substring in a string
  * http://php.net/manual/en/function.stripos.php
  * Find the numeric position of the first occurrence of needle in the haystack string. Unlike the strpos(), stripos()

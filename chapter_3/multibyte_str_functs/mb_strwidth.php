@@ -6,6 +6,8 @@
  * Date: 8/11/18
  * Time: 16:51
  *
+ * int mb_strwidth ( string $str [, string $encoding = mb_internal_encoding() ] )
+ *
  * Return width of string.
  * http://php.net/manual/en/function.mb-strwidth.php
  * The fullwidth characters are: U+1100-U+115F, U+11A3-U+11A7, U+11FA-U+11FF, U+2329-U+232A, U+2E80-U+2E99,

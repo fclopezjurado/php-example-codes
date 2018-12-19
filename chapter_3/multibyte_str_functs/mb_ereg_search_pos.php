@@ -6,6 +6,8 @@
  * Date: 8/11/18
  * Time: 16:43
  *
+ * array mb_ereg_search_pos ([ string $pattern [, string $option = "ms" ]] )
+ *
  * Returns position and length of a matched part of the multi byte regular expression for a predefined multi byte
  * string.
  * http://php.net/manual/en/function.mb-ereg-search-pos.php

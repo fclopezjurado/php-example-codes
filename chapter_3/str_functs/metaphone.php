@@ -6,6 +6,8 @@
  * Date: 8/11/18
  * Time: 16:20
  *
+ * string metaphone ( string $str [, int $phonemes = 0 ] )
+ *
  * Calculates the metaphone key of str.
  * Similar to "soundex()", metaphone creates the same key for similar sounding words. It's more accurate than
  * "soundex()" as it knows the basic rules of English pronunciation. The metaphone generated keys are of variable

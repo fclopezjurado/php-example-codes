@@ -6,6 +6,8 @@
  * Date: 8/11/18
  * Time: 16:17
  *
+ * string hex2bin ( string $data )
+ *
  * Decodes a hexadecimally encoded binary string. This function does NOT convert a hexadecimal number to a binary
  * number. This can be done using the base_convert() function.
  * http://php.net/manual/en/function.hex2bin.php

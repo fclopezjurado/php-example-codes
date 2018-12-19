@@ -6,6 +6,8 @@
  * Date: 8/11/18
  * Time: 16:31
  *
+ * string substr ( string $string , int $start [, int $length ] )
+ *
  * Return part of a string.
  * http://php.net/manual/en/function.substr.php
  * Returns the portion of string specified by the start and length parameters.

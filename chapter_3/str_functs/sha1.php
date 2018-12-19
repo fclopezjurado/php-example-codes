@@ -6,6 +6,8 @@
  * Date: 8/11/18
  * Time: 16:23
  *
+ * string sha1 ( string $str [, bool $raw_output = FALSE ] )
+ *
  * Calculate the sha1 hash of a string.
  * WARNING: It is not recommended to use this function to secure passwords, due to the fast nature of this hashing
  * algorithm. See the Password Hashing FAQ for details and best practices.

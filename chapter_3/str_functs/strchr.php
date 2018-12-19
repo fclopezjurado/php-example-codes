@@ -6,6 +6,8 @@
  * Date: 8/11/18
  * Time: 16:25
  *
+ * string strchr ( string $haystack , mixed $needle [, bool $before_needle = FALSE ] )
+ *
  * Alias of strstr().
  * http://php.net/manual/en/function.strchr.php
  * Find the first occurrence of a string.

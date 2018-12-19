@@ -6,6 +6,8 @@
  * Date: 8/11/18
  * Time: 16:44
  *
+ * string mb_eregi_replace ( string $pattern , string $replace , string $string [, string $option = "msri" ] )
+ *
  * Replace regular expression with multi byte support ignoring case.
  * http://php.net/manual/en/function.mb-eregi-replace.php
  * Scans string for matches to pattern, then replaces the matched text with replacement.

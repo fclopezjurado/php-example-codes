@@ -6,6 +6,8 @@
  * Date: 8/11/18
  * Time: 16:42
  *
+ * int mb_ereg_search_getpos ( void )
+ *
  * Returns start point for next regular expression match.
  * http://php.net/manual/en/function.mb-ereg-search-getpos.php
  * @return int the point to start regular expression match for mb_ereg_search(), mb_ereg_search_pos(),

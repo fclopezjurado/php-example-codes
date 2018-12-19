@@ -6,6 +6,9 @@
  * Date: 8/11/18
  * Time: 16:17
  *
+ * array get_html_translation_table ([ int $table = HTML_SPECIALCHARS [, int $flags = ENT_COMPAT | ENT_HTML401
+ * [, string $encoding = "UTF-8" ]]] )
+ *
  * Returns the translation table used by "htmlspecialchars()" and "htmlentities()" functions.
  * http://php.net/manual/en/function.get-html-translation-table.php
  * @param int $table which table to return. Either HTML_ENTITIES or HTML_SPECIALCHARS.

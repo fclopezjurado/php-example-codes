@@ -6,6 +6,8 @@
  * Date: 8/11/18
  * Time: 16:46
  *
+ * mixed mb_get_info ([ string $type = "all" ] )
+ *
  * Get internal settings of mbstring.
  * http://php.net/manual/en/function.mb-get-info.php
  * @param string type if type isn't specified or is specified to "all", an array having the elements

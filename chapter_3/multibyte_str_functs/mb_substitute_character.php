@@ -6,6 +6,8 @@
  * Date: 8/11/18
  * Time: 16:52
  *
+ * mixed mb_substitute_character ([ mixed $substchar = mb_substitute_character() ] )
+ *
  * Set/Get substitution character.
  * http://php.net/manual/en/function.mb-substitute-character.php
  * Specifies a substitution character when input character encoding is invalid or character code does not exist in

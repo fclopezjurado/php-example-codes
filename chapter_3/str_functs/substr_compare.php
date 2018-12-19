@@ -6,6 +6,9 @@
  * Date: 8/11/18
  * Time: 16:31
  *
+ * int substr_compare ( string $main_str , string $str , int $offset [, int $length
+ * [, bool $case_insensitivity = FALSE ]] )
+ *
  * Binary safe comparison of two strings from an offset, up to length characters.
  * http://php.net/manual/en/function.substr-compare.php
  * substr_compare() compares main_str from position offset with str up to length characters.

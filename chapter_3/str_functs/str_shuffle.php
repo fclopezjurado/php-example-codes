@@ -6,6 +6,8 @@
  * Date: 8/11/18
  * Time: 16:25
  *
+ * string str_shuffle ( string $str )
+ *
  * Randomly shuffles a string.
  * http://php.net/manual/en/function.str-shuffle.php
  * One permutation of all possible is created.

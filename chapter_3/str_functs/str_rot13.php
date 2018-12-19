@@ -6,6 +6,8 @@
  * Date: 8/11/18
  * Time: 16:25
  *
+ * string str_rot13 ( string $str )
+ *
  * Perform the rot13 transform on a string.
  * http://php.net/manual/en/function.str-rot13.php
  * Performs the ROT13 encoding on the str argument and returns the resulting string.

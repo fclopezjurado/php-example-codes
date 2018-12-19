@@ -6,6 +6,8 @@
  * Date: 8/11/18
  * Time: 16:20
  *
+ * string nl_langinfo ( int $item )
+ *
  * Query language and locale information.
  * Used to access individual elements of the locale categories. Unlike "localeconv()", which returns all of the
  * elements, "nl_langinfo()" allows you to select any specific element.

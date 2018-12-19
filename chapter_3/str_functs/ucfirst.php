@@ -6,6 +6,8 @@
  * Date: 8/11/18
  * Time: 16:32
  *
+ * string ucfirst ( string $str )
+ *
  * Make a string's first character uppercase.
  * http://php.net/manual/en/function.ucfirst.php
  * Returns a string with the first character of str capitalized, if that character is alphabetic.

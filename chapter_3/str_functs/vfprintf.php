@@ -6,6 +6,8 @@
  * Date: 8/11/18
  * Time: 16:32
  *
+ * int vfprintf ( resource $handle , string $format , array $args )
+ *
  * Write a formatted string to a stream.
  * http://php.net/manual/en/function.vfprintf.php
  * Write a string produced according to format to the stream resource specified by handle. Operates as fprintf() but

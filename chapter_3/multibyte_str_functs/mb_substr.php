@@ -6,6 +6,8 @@
  * Date: 8/11/18
  * Time: 16:52
  *
+ * string mb_substr ( string $str , int $start [, int $length = NULL [, string $encoding = mb_internal_encoding() ]] )
+ *
  * Get part of string.
  * http://php.net/manual/en/function.mb-substr.php
  * Performs a multi-byte safe substr() operation based on number of characters. Position is counted from the beginning

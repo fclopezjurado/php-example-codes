@@ -6,6 +6,9 @@
  * Date: 8/11/18
  * Time: 16:49
  *
+ * bool mb_send_mail ( string $to , string $subject , string $message [, mixed $additional_headers = NULL
+ * [, string $additional_parameter = NULL ]] )
+ *
  * Send encoded mail.
  * http://php.net/manual/en/function.mb-send-mail.php
  * Sends email. Headers and messages are converted and encoded according to the mb_language() setting. It's a wrapper

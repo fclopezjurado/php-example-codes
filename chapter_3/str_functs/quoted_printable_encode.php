@@ -6,6 +6,8 @@
  * Date: 8/11/18
  * Time: 16:22
  *
+ * string quoted_printable_encode ( string $str )
+ *
  * Convert a 8 bit string to a quoted-printable string.
  * http://php.net/manual/en/function.quoted-printable-encode.php
  * Returns a quoted printable string created according to » RFC2045.

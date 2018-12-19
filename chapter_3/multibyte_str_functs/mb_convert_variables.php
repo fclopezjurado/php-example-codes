@@ -6,6 +6,8 @@
  * Date: 8/11/18
  * Time: 16:39
  *
+ * string mb_convert_variables ( string $to_encoding , mixed $from_encoding , mixed &$vars [, mixed &$... ] )
+ *
  * Convert character code in variable(s).
  * http://php.net/manual/en/function.mb-convert-variables.php
  * Converts character encoding of variables vars in encoding from_encoding to encoding to_encoding.

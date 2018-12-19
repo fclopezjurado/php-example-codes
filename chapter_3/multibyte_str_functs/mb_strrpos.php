@@ -6,6 +6,8 @@
  * Date: 8/11/18
  * Time: 16:51
  *
+ * int mb_strrpos ( string $haystack , string $needle [, int $offset = 0 [, string $encoding = mb_internal_encoding() ]] )
+ *
  * Find position of last occurrence of a string in a string.
  * http://php.net/manual/en/function.mb-strrpos.php
  * Performs a multi byte safe strrpos() operation based on the number of characters. needle position is counted from

@@ -45,3 +45,14 @@ foreach($strings as $string)
     $convert[] = iconv('UTF-8', 'ASCII//TRANSLIT//IGNORE', $string);
 
 var_dump($convert);
+
+$waysToSayHello = [
+    'emoji' => "\u{1F44B}",
+    'latin_chars' => "Hello",
+    'accentedChars' => "ça va?"
+];
+foreach ($waysToSayHello as $method => $string) {
+    var_dump("$method : encoding [" . mb_detect_encoding($string, 'ISO-8859-1') . '] encoding ['
+        . mb_detect_encoding($string, ['ASCII','UTF-8']) . '] strlen [' . strlen($string) . '] mb_strlen ['
+        . mb_strlen($string) . '] first character[' . $string[0] . ']');
+}

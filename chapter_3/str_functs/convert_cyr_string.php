@@ -6,6 +6,8 @@
  * Date: 8/11/18
  * Time: 16:12
  *
+ * string convert_cyr_string ( string $str , string $from , string $to )
+ *
  * Converts from one Cyrillic character set to another.
  * http://php.net/manual/en/function.convert-cyr-string.php
  * @param string $str the string to be converted.

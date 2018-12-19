@@ -6,6 +6,8 @@
  * Date: 8/11/18
  * Time: 16:39
  *
+ * string mb_convert_case ( string $str , int $mode [, string $encoding = mb_internal_encoding() ] )
+ *
  * Perform case folding on a string.
  * http://php.net/manual/en/function.mb-convert-case.php
  * Performs case folding on a string, converted in the way specified by mode.

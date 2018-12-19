@@ -1,9 +1,12 @@
 <?php
+
 /**
  * Created by PhpStorm.
  * User: fljurado
  * Date: 8/11/18
  * Time: 16:24
+ *
+ * mixed str_ireplace ( mixed $search , mixed $replace , mixed $subject [, int &$count ] )
  *
  * Case-insensitive version of str_replace().
  * http://php.net/manual/en/function.str-ireplace.php

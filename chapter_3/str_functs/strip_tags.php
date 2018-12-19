@@ -6,6 +6,8 @@
  * Date: 8/11/18
  * Time: 16:26
  *
+ * string strip_tags ( string $str [, string $allowable_tags ] )
+ *
  * Strip HTML and PHP tags from a string.
  * http://php.net/manual/en/function.strip-tags.php
  * This function tries to return a string with all NULL bytes, HTML and PHP tags stripped from a given str. It uses

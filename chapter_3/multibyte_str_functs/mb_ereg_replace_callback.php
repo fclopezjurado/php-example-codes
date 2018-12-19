@@ -6,6 +6,8 @@
  * Date: 8/11/18
  * Time: 16:41
  *
+ * string mb_ereg_replace_callback ( string $pattern , callable $callback , string $string [, string $option = "msr" ] )
+ *
  * Perform a regular expresssion seach and replace with multi byte support using a callback.
  * http://php.net/manual/en/function.mb-ereg-replace-callback.php
  * Scans string for matches to pattern, then replaces the matched text with the output of callback function.

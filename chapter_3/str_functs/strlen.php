@@ -6,6 +6,8 @@
  * Date: 8/11/18
  * Time: 16:27
  *
+ * int strlen ( string $string )
+ *
  * Get string length.
  * http://php.net/manual/en/function.strlen.php
  * Returns the length of the given string.

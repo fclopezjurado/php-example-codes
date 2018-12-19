@@ -5,6 +5,8 @@
  * Date: 8/11/18
  * Time: 16:22
  *
+ * string quotemeta ( string $str )
+ *
  * Quote meta characters.
  * http://php.net/manual/en/function.quotemeta.php
  * Returns a version of str with a backslash character (\) before every character that is among

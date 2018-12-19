@@ -5,6 +5,9 @@
  * User: fljurado
  * Date: 8/11/18
  * Time: 16:22
+ *
+ * string quoted_printable_decode ( string $str )
+ *
  * Convert a quoted-printable string to an 8 bit string.
  * http://php.net/manual/en/function.quoted-printable-decode.php
  * This function returns an 8-bit binary string corresponding to the decoded quoted printable string.

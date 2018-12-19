@@ -6,6 +6,8 @@
  * Date: 8/11/18
  * Time: 16:18
  *
+ * string htmlspecialchars_decode ( string $string [, int $flags = ENT_COMPAT | ENT_HTML401 ] )
+ *
  * Convert special HTML entities back to characters. The converted entities are: &amp;, &quot; (when ENT_NOQUOTES is
  * not set), &#039; (when ENT_QUOTES is set), &lt; and &gt;.
  * http://php.net/manual/en/function.htmlspecialchars-decode.php

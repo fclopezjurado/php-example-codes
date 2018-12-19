@@ -6,6 +6,8 @@
  * Date: 8/11/18
  * Time: 16:27
  *
+ * int strncasecmp ( string $str1 , string $str2 , int $len )
+ *
  * Binary safe case-insensitive string comparison of the first n characters
  * http://php.net/manual/en/function.strncasecmp.php
  * This function is similar to strcasecmp(), with the difference that you can specify the (upper limit of the) number

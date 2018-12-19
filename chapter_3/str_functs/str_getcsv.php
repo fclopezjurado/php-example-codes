@@ -6,6 +6,8 @@
  * Date: 8/11/18
  * Time: 16:23
  *
+ * array str_getcsv ( string $input [, string $delimiter = "," [, string $enclosure = '"' [, string $escape = "\\" ]]] )
+ *
  * Parse a CSV string into an array.
  * http://php.net/manual/en/function.str-getcsv.php
  * Parses a string input for fields in CSV format and returns an array containing the fields read.

@@ -6,6 +6,9 @@
  * Date: 8/11/18
  * Time: 16:22
  *
+ * string setlocale ( int $category , string $locale [, string $... ] )
+ * string setlocale ( int $category , array $locale )
+ *
  * Set locale information.
  * http://php.net/manual/en/function.setlocale.php
  * @param int $category is a named constant specifying the category of the functions affected by the locale setting:

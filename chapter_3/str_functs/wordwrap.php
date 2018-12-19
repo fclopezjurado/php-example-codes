@@ -6,6 +6,8 @@
  * Date: 8/11/18
  * Time: 16:32
  *
+ * string wordwrap ( string $str [, int $width = 75 [, string $break = "\n" [, bool $cut = FALSE ]]] )
+ *
  * Wraps a string to a given number of characters.
  * http://php.net/manual/en/function.wordwrap.php
  * Wraps a string to a given number of characters using a string break character.

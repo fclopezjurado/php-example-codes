@@ -6,6 +6,8 @@
  * Date: 8/11/18
  * Time: 16:27
  *
+ * int strncmp ( string $str1 , string $str2 , int $len )
+ *
  * Binary safe string comparison of the first n characters.
  * http://php.net/manual/en/function.strncmp.php
  * This function is similar to strcmp(), with the difference that you can specify the (upper limit of the) number of

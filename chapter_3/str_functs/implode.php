@@ -6,6 +6,8 @@
  * Date: 8/11/18
  * Time: 16:19
  *
+ * string implode ( string $glue , array $pieces )
+ *
  * Join array elements with a glue string.
  * http://php.net/manual/en/function.implode.php
  * @param string $glue defaults to an empty string.

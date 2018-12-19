@@ -6,6 +6,8 @@
  * Date: 8/11/18
  * Time: 16:39
  *
+ * string mb_convert_encoding ( string $str , string $to_encoding [, mixed $from_encoding = mb_internal_encoding() ] )
+ *
  * Convert character encoding.
  * http://php.net/manual/en/function.mb-convert-encoding.php
  * Converts the character encoding of string str to to_encoding from optionally from_encoding.

@@ -6,10 +6,13 @@
  * Date: 8/11/18
  * Time: 16:12
  *
+ * string chr ( int $bytevalue )
+ *
  * Generate a single-byte string from an integer.
  * http://php.net/manual/en/function.chr.php
  * @param int bytevalue an integer between 0 and 255. Values outside the valid range (0..255) will be bitwise and'ed
  * with 255.
+ * @return string a single-character string containing the specified byte.
  */
 
 $str = 'The string ends in escape: ';

@@ -6,6 +6,8 @@
  * Date: 8/11/18
  * Time: 16:50
  *
+ * int mb_stripos ( string $haystack , string $needle [, int $offset = 0 [, string $encoding = mb_internal_encoding() ]] )
+ *
  * Finds position of first occurrence of a string within another, case insensitive.
  * http://php.net/manual/en/function.mb-stripos.php
  * mb_stripos() returns the numeric position of the first occurrence of needle in the haystack string. Unlike

@@ -6,6 +6,8 @@
  * Date: 8/11/18
  * Time: 16:42
  *
+ * string mb_ereg_replace ( string $pattern , string $replacement , string $string [, string $option = "msr" ] )
+ *
  * Replace regular expression with multi byte support.
  * http://php.net/manual/en/function.mb-ereg-replace.php
  * Scans string for matches to pattern, then replaces the matched text with replacement.

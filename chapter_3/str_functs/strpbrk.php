@@ -6,6 +6,8 @@
  * Date: 8/11/18
  * Time: 16:27
  *
+ * string strpbrk ( string $haystack , string $char_list )
+ *
  * Search a string for any of a set of characters.
  * http://php.net/manual/en/function.strpbrk.php
  * @param string $haystack the string where char_list is looked for.

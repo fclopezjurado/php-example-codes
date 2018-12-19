@@ -6,6 +6,8 @@
  * Date: 8/11/18
  * Time: 16:15
  *
+ * mixed count_chars ( string $string [, int $mode = 0 ] )
+ *
  * Counts the number of occurrences of every byte-value (0..255) in string and returns it in various ways.
  * http://php.net/manual/en/function.count-chars.php
  * @param string $string the examined string.

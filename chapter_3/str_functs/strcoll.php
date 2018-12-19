@@ -6,6 +6,8 @@
  * Date: 8/11/18
  * Time: 16:26
  *
+ * int strcoll ( string $str1 , string $str2 )
+ *
  * Locale based string comparison.
  * http://php.net/manual/en/function.strcoll.php
  * Note that this comparison is case sensitive, and unlike strcmp() this function is not binary safe.

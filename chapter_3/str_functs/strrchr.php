@@ -6,6 +6,8 @@
  * Date: 8/11/18
  * Time: 16:29
  *
+ * string strrchr ( string $haystack , mixed $needle )
+ *
  * Find the last occurrence of a character in a string.
  * http://php.net/manual/en/function.strrchr.php
  * This function returns the portion of haystack which starts at the last occurrence of needle and goes until the end

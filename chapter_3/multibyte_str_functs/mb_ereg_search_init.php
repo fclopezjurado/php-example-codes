@@ -6,6 +6,8 @@
  * Date: 8/11/18
  * Time: 16:43
  *
+ * bool mb_ereg_search_init ( string $string [, string $pattern [, string $option = "msr" ]] )
+ *
  * Setup string and regular expression for a multi byte regular expression match.
  * http://php.net/manual/en/function.mb-ereg-search-init.php
  * mb_ereg_search_init() sets string and pattern for a multi byte regular expression. These values are used for

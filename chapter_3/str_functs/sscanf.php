@@ -6,6 +6,8 @@
  * Date: 8/11/18
  * Time: 16:23
  *
+ * mixed sscanf ( string $str , string $format [, mixed &$... ] )
+ *
  * Parses input from a string according to a format.
  * http://php.net/manual/en/function.sscanf.php
  * Reads from the string $str and interprets it according to the specified format, which is described in the

@@ -6,6 +6,8 @@
  * Date: 8/11/18
  * Time: 16:50
  *
+ * string mb_strrchr ( string $haystack , string $needle [, bool $part = FALSE [, string $encoding = mb_internal_encoding() ]] )
+ *
  * Finds the last occurrence of a character in a string within another.
  * http://php.net/manual/en/function.mb-strrchr.php
  * mb_strrchr() finds the last occurrence of needle in haystack and returns the portion of haystack. If needle is not

@@ -6,6 +6,8 @@
  * Date: 8/11/18
  * Time: 16:50
  *
+ * int mb_strpos ( string $haystack , string $needle [, int $offset = 0 [, string $encoding = mb_internal_encoding() ]] )
+ *
  * Find position of first occurrence of string in a string.
  * http://php.net/manual/en/function.mb-strpos.php
  * Performs a multi-byte safe strpos() operation based on number of characters. The first character's position is 0,

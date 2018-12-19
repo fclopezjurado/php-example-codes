@@ -6,6 +6,8 @@
  * Date: 8/11/18
  * Time: 16:31
  *
+ * int substr_count ( string $haystack , string $needle [, int $offset = 0 [, int $length ]] )
+ *
  * Count the number of substring occurrences.
  * http://php.net/manual/en/function.substr-count.php
  * @param string $haystack the string to search in.

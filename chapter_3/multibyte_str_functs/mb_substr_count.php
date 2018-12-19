@@ -6,6 +6,8 @@
  * Date: 8/11/18
  * Time: 16:52
  *
+ * int mb_substr_count ( string $haystack , string $needle [, string $encoding = mb_internal_encoding() ] )
+ *
  * Count the number of substring occurrences.
  * http://php.net/manual/en/function.mb-substr-count.php
  * @param string $haystack the string being checked.

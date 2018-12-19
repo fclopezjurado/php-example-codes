@@ -6,6 +6,8 @@
  * Date: 8/11/18
  * Time: 16:19
  *
+ * string join ( string $glue , array $pieces )
+ *
  * Alias of join.
  */
 

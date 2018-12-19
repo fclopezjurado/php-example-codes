@@ -6,6 +6,8 @@
  * Date: 8/11/18
  * Time: 16:48
  *
+ * string mb_preferred_mime_name ( string $encoding )
+ *
  * Get MIME charset string.
  * http://php.net/manual/en/function.mb-preferred-mime-name.php
  * Get a MIME charset string for a specific encoding.

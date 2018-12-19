@@ -1,14 +1,17 @@
 <?php
+
 /**
  * Created by PhpStorm.
  * User: fljurado
  * Date: 8/11/18
  * Time: 16:11
  *
+ * string addcslashes ( string $str , string $charlist )
+ *
  * Returns a string with backslashes before characters that are listed in char list parameter.
  * http://php.net/manual/en/function.addcslashes.php
- * @param string the string to be scaped.
- * @param string charlist A list of characters to be escaped. If charlist contains characters \n, \r etc., they are
+ * @param string $str the string to be scaped.
+ * @param string $charlist a list of characters to be escaped. If charlist contains characters \n, \r etc., they are
  * converted in C-like style, while other non-alphanumeric characters with ASCII codes lower than 32 and higher than
  * 126 converted to octal representation.
  * @return string the escaped string.

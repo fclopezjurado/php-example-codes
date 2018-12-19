@@ -6,6 +6,8 @@
  * Date: 8/11/18
  * Time: 16:47
  *
+ * int mb_ord ( string $str [, string $encoding ] )
+ *
  * Get code point of character.
  * http://php.net/manual/en/function.mb-ord.php
  * @param string $str stores characters to be translated to number of encoding table.

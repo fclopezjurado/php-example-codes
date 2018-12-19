@@ -6,6 +6,8 @@
  * Date: 8/11/18
  * Time: 16:13
  *
+ * string convert_uuencode ( string $data )
+ *
  * Encodes a string using the uuencode algorithm.
  * Uuencode translates all strings (including binary data) into printable characters, making them safe for network
  * transmissions. Uuencoded data is about 35% larger than the original.
