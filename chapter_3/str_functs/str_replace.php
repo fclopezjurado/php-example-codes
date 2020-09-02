@@ -6,6 +6,8 @@
  * Date: 8/11/18
  * Time: 16:25
  *
+ * mixed str_replace ( mixed $search , mixed $replace , mixed $subject [, int &$count ] )
+ *
  * Replace all occurrences of the search string with the replacement string.
  * http://php.net/manual/en/function.str-ireplace.php
  * This function returns a string or an array with all occurrences of search in subject replaced with the given replace

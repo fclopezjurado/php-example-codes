@@ -6,6 +6,8 @@
  * Date: 8/11/18
  * Time: 16:24
  *
+ * string str_pad ( string $input , int $pad_length [, string $pad_string = " " [, int $pad_type = STR_PAD_RIGHT ]] )
+ *
  * Pad a string to a certain length with another string.
  * http://php.net/manual/en/function.str-pad.php
  * This function returns the input string padded on the left, the right, or both sides to the specified padding length.

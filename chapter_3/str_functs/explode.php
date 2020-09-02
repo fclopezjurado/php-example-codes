@@ -6,6 +6,8 @@
  * Date: 8/11/18
  * Time: 16:16
  *
+ * array explode ( string $delimiter , string $string [, int $limit = PHP_INT_MAX ] )
+ *
  * Split a string by a string
  * http://php.net/manual/en/function.explode.php
  * Returns an array of strings, each of which is a substring of string formed by splitting it on boundaries formed

@@ -6,6 +6,8 @@
  * Date: 8/11/18
  * Time: 16:19
  *
+ * array localeconv ( void )
+ *
  * Get numeric formatting information.
  * Returns an associative array containing localized numeric and monetary formatting information.
  * http://php.net/manual/en/function.localeconv.php

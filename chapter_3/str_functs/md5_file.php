@@ -6,6 +6,8 @@
  * Date: 8/11/18
  * Time: 16:20
  *
+ * string md5_file ( string $filename [, bool $raw_output = FALSE ] )
+ *
  * Calculates the md5 hash of a given file.
  * http://php.net/manual/en/function.md5-file.php
  * @param string $filename the filename.

@@ -6,6 +6,9 @@
  * Date: 8/11/18
  * Time: 16:21
  *
+ * string number_format ( float $number [, int $decimals = 0 ] )
+ * string number_format ( float $number , int $decimals = 0 , string $dec_point = "." , string $thousands_sep = "," )
+ *
  * Format a number with grouped thousands. This function accepts either one, two, or four parameters (not three):
  * If only one parameter is given, number will be formatted without decimals, but with a comma (",") between every
  * group of thousands.

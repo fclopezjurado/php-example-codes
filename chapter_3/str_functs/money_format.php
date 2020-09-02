@@ -6,6 +6,8 @@
  * Date: 8/11/18
  * Time: 16:20
  *
+ * string money_format ( string $format , float $number )
+ *
  * Formats a number as a currency string.
  * http://php.net/manual/en/function.money-format.php
  * Returns a formatted version of number. This function wraps the C library function "strfmon()", with the difference

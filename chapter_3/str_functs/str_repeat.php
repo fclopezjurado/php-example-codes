@@ -6,6 +6,8 @@
  * Date: 8/11/18
  * Time: 16:24
  *
+ * string str_repeat ( string $input , int $multiplier )
+ *
  * Repeat an string.
  * http://php.net/manual/en/function.str-repeat.php
  * Returns input repeated multiplier times.

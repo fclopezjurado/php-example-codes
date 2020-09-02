@@ -6,6 +6,8 @@
  * Date: 8/11/18
  * Time: 16:17
  *
+ * int fprintf ( resource $handle , string $format [, mixed $... ] )
+ *
  * Write a string produced according to format to the stream resource specified by handle.
  * http://php.net/manual/en/function.fprintf.php
  * @param resource $handle a file system pointer resource that is typically created using "fopen()".

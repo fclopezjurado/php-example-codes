@@ -6,6 +6,8 @@
  * Date: 8/11/18
  * Time: 16:25
  *
+ * int strcasecmp ( string $str1 , string $str2 )
+ *
  * Binary safe case-insensitive string comparison.
  * http://php.net/manual/en/function.strcasecmp.php
  * @param string $str1 the first string.

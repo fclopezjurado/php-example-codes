@@ -6,6 +6,8 @@
  * Date: 8/11/18
  * Time: 16:12
  *
+ * string rtrim ( string $str [, string $character_mask ] )
+ *
  * This function returns a string with whitespace (or other characters) stripped from the end of the string.
  * http://php.net/manual/en/function.rtrim.php
  * @param string str the input string.

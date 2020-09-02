@@ -6,6 +6,9 @@
  * Date: 8/11/18
  * Time: 16:18
  *
+ * string htmlentities ( string $string [, int $flags = ENT_COMPAT | ENT_HTML401
+ * [, string $encoding = ini_get("default_charset") [, bool $double_encode = TRUE ]]] )
+ *
  * Convert all applicable characters to HTML entities.
  * http://php.net/manual/en/function.htmlentities.php
  * This function is identical to "htmlspecialchars()" in all ways, except with htmlentities(), all characters which

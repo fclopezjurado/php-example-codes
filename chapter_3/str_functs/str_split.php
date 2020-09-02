@@ -6,6 +6,8 @@
  * Date: 8/11/18
  * Time: 16:25
  *
+ * array str_split ( string $string [, int $split_length = 1 ] )
+ *
  * Converts a string to an array.
  * http://php.net/manual/en/function.str-split.php
  * @param string the input string.
