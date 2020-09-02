@@ -163,6 +163,17 @@ $a[0] = 'b';
 var_dump($a);
 var_dump('--------------------');
 
+$test = 1;
+
+# Bit shifting
+var_dump($test << 3);
+
+# Spaceship operator (complex data structures are higher than single data types).
+var_dump([1] <=> 100);
+
+# This is the equivalent of echo shell_exec('whoami');
+var_dump(`whoami`);
+
 /**
  * String conversion to numbers.
  */
