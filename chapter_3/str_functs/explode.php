@@ -52,5 +52,6 @@ print_r(explode('|', $str, 2));
 
 /**
  * Negative limit (since PHP 5.1)
+ * This example specifies -1 as the limit so PHP returns all the elements except the last one
  */
 print_r(explode('|', $str, -1));

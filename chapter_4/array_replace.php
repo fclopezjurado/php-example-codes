@@ -25,4 +25,11 @@
 $base = ['orange', 'banana', 'apple', 'raspberry'];
 $replacements = [0 => 'pineapple', 4 => 'cherry'];
 $replacements2 = [0 => 'grape'];
+
 var_dump(array_replace($base, $replacements, $replacements2));
+
+$input = ['a', 'b', 'c'];
+$replace = [3 => 'd', '1' => 'q'];
+$replaceTwo = [2 => 1, 1.3 => 'Z'];
+
+var_dump(array_replace($input, $replace, $replaceTwo));

@@ -19,6 +19,9 @@
  * @return int|bool the position of where the needle exists relative to the beginning of the haystack string
  * (independent of offset). Also note that string positions start at 0, and not 1. Returns FALSE if the needle was not
  * found.
+ *
+ * For string search functions, the order is always $haystack then $needle.
+ * For array search functions, the order is always $needle then $haystack
  */
 
 var_dump(strpos('abc', 'a'));

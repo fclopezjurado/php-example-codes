@@ -11,11 +11,15 @@
  * Heredoc text behaves just like a double-quoted string, without the double quotes.
  */
 
+# You could embed variables in a HEREDOC
+$test = 3;
 $str = <<<HEREDOC
 Example of string
-spanning multiple lines
+spanning multiple lines $test
 using heredoc syntax.
 HEREDOC;
+
+var_dump($str);
 
 class foo1
 {

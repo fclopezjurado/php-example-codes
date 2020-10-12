@@ -21,5 +21,6 @@
 $str = 'Hello Friend';
 var_dump(str_split($str));
 var_dump(str_split($str, 3));
-var_dump(str_split($str, 0)); // PHP Warning
+var_dump(str_split($str, 0)); // PHP Warning and return false
+var_dump(str_split($str, -1)); // PHP Warning and return false
 var_dump(str_split($str, 13)); // everything in an array element

@@ -12,6 +12,14 @@
  * http://php.net/manual/en/language.types.string.php#language.types.string.syntax.nowdoc
  */
 
+echo <<<NOWDOC
+This is a nowdoc string, note:
+1) Single quotes around the label
+2) Variables will not be evaluated
+3) Control characters will not be evaluated
+NOWDOC;
+
+# You could write the string block type in single quotes.
 echo <<<'NOWDOC'
 This is a nowdoc string, note:
 1) Single quotes around the label
